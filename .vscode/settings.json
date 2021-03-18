@@ -1,4 +1,5 @@
 {
     "jupyter.jupyterServerType": "local",
-    "python.pythonPath": "C:\\Users\\Anastasija Hismutova\\anaconda3\\python.exe"
+    "python.pythonPath": "C:\\Python38\\python.exe",
+    "jupyter.jupyterCommandLineArguments": []
 }
