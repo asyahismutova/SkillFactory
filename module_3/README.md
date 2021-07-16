@@ -8,8 +8,8 @@
 - фиктивные переменные для стран (country_***))
 - бинарная переменная для столиц (capital); 1 - если город столица, 0 - для остальных
 - доход по странам (country_income)
-- country_income_rank = country_income / Ranking
+- country_income_rank = country_income / Ranking, также добавлены другие переменные на различные комбинации дохода, Ranking, страны и города
 
 # Результат:
 Baseline MAE = 0.206128125
-
+MAE = 0.205395
