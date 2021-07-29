@@ -1,0 +1,10 @@
+Project 3 best model: 
+https://github.com/valeriyavdeyev/skillfactory_rds/blob/main/module_3/u3_project.ipynb
+
+https://gplearn.readthedocs.io/en/stable/
+
+Clusterisation: silhuette
+
+SVD PCA
+
+https://www.kaggle.com/gogo827jz/data-augmentation-ctgan
